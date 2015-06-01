@@ -1,0 +1,5 @@
+Pokeship Instructions
+1. Hide your Pokemon somewhere in the grass. Click to place them, click again to remove them.
+2. Select a .battle file to load the computer's hidden Pokemon.
+3. Start the game!
+4. Guess where the computer's Pokemon are hidden before the computer guesses where yours are. If the computer correctly guesses where your Pokemon is, a Pokeball icon will appear. If you correctly guess where the computer's Pokemon is, the Pokemon will appear.
